@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '38466'
     url: http://www.gutenberg.org/2009/agents/38466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43349#An-Irishman-s-Difficulties-with-the-Dutch-Language
 gutenberg_issued: '2013-07-29'
 gutenberg_type: Text
 identifiers:
